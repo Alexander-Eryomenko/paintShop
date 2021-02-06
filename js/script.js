@@ -7,7 +7,7 @@ $(document).ready(function(){
     prevArrow: '<button type="button" class="slick-prev"><img src="../img/popular-slider/circle-left.svg" alt="arrowleft"></button>',
     nextArrow: '<button type="button" class="slick-next"><img src="../img/popular-slider/circle-right.svg" alt="arrowright"></button>',
     dots: true,
-    slidesToShow: 3,
+    slidesToShow: 4,
     speed: 500,
   });
 });
